@@ -1,0 +1,7 @@
+{
+    "name": "dom-create",
+    "description": "Quickly create DOM elements.",
+    "version": "0.1.0",
+    "main": "index.js",
+    "author": "Florian Margaine <florian@margaine.com>"
+}
