@@ -1,7 +1,11 @@
 {
     "name": "dom-create",
     "description": "Quickly create DOM elements.",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "main": "index.js",
-    "author": "Florian Margaine <florian@margaine.com>"
+    "author": "Florian Margaine <florian@margaine.com>",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Ralt/img-slider"
+    }
 }
